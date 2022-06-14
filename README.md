@@ -1,4 +1,5 @@
-##                                    Olá! Eu sou o Vitor Lucas, Desenvolvedor Web
+##                               Hi!🤝 My name is Vitor Lucas
+I'm a Junior Web Developer
 <div align="center">
   <a href="https://github.com/vitorlucasramosprado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorlucasramosprado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
